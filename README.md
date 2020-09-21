@@ -1,7 +1,7 @@
 # EarthquakesPredict
 This is the first ML project I did when I was a undergraduate student. It seems ridiculous after I learn more knowledge about ML.
 # Brief Introduction of what these code do.
-![image](https://github.com/Demoom/EarthquakesPredict/tree/master/Image/P5.PNG)<br>
+<img src="https://github.com/Demoom/EarthquakesPredict/tree/master/Image/P5.PNG" width="40%" height="40%">
 ## Data Pre-processing
 Loading data.<br>
 Finding some data unuseable, such as earthquake not coused by natural, and some wrong string data can't fitted by model.<br>
